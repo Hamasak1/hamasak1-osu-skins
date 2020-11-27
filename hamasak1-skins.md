@@ -3,6 +3,9 @@
 # Some of the skins may not be listed. 
 i could just be lazy too, but whatever
 
+# Some of the skins may use pre-existing links.
+because i'm too lazy to upload all of them onto MEGA, Dropbox, etc. 
+
 # [WhiteCat Skin (1.0)](https://www.dropbox.com/s/47obrwg9f8fgzyd/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20%281.0%29%20%E3%80%8ECK%E3%80%8F%20%23-.osk?raw=1)
 ![](https://www.dropbox.com/s/rlmhoficpxr2twq/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20%281.0%29%20%E3%80%8ECK%E3%80%8F%20%23-.png?raw=1)
 ![](https://skins.osuck.net/uploads/posts/2019-11/1573897221_3.jpg)
