@@ -4,7 +4,7 @@
 
 # [WhiteCat Skin (1.0)](https://www.dropbox.com/s/47obrwg9f8fgzyd/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20%281.0%29%20%E3%80%8ECK%E3%80%8F%20%23-.osk?raw=1)
 ![](https://www.dropbox.com/s/rlmhoficpxr2twq/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20%281.0%29%20%E3%80%8ECK%E3%80%8F%20%23-.png?raw=1)
-![](adding screenshot later)
+![](https://skins.osuck.net/uploads/posts/2019-11/1573897221_3.jpg)
 
 # [Rafis Generic DT skin](https://www.dropbox.com/s/mj8snq3xz4rx15y/Rafis%20Generic%20DT%20skin.osk?dl=0)
 ![](https://osu.ppy.sh/ss/14372487/7fb3)
