@@ -1,5 +1,6 @@
 # Main osu! skins
 most of skins i use. definitely all of the main skins
+![Alt Text](https://www.speedrun.com/themes/osu/cover-256.png)
 
 # Some of the skins may not be listed. 
 i could just be lazy too, but whatever
