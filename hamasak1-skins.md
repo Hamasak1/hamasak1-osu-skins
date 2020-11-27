@@ -44,8 +44,8 @@ i could just be lazy too, but whatever
 ![](https://osu.ppy.sh/ss/13488989/a76a)
 
 # [- andros but its edited -](https://www.dropbox.com/s/czcg38gyz6p04e7/andros%20edit.osk?dl=0)
-![](https://skins.osuck.net/uploads/posts/2019-07/1561977645_screenshot5556.jpg)
 note! this is not the extact skin, i was too lazy to  take a screenshot. so here is a substitute image.
+![](https://skins.osuck.net/uploads/posts/2019-07/1561977645_screenshot5556.jpg)
 
 # [mrekk HDDT (basically Rafis HDDT)](https://drive.google.com/u/0/uc?export=download&confirm=e5ti&id=1x21RntTvG_XLiz7SFXuFIQc6NWuOOfsf)
 ![](https://i.imgur.com/YULitvx.png)
