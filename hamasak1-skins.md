@@ -53,5 +53,3 @@ note! this is not the extact skin, i was too lazy to  take a screenshot. so here
 
 # [mrekk HDDT (basically Rafis HDDT)](https://drive.google.com/u/0/uc?export=download&confirm=e5ti&id=1x21RntTvG_XLiz7SFXuFIQc6NWuOOfsf)
 ![](https://i.imgur.com/YULitvx.png)
-
-theme: jekyll-theme-cayman
