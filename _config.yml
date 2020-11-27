@@ -11,4 +11,4 @@ twitter_username: Not happening # DO NOT include the @ character, or else the bu
 github_username:  Hamasak1 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
