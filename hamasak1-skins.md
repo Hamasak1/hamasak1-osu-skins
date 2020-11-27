@@ -7,7 +7,7 @@ i could just be lazy too, but whatever
 # Some of the skins may use pre-existing links.
 because i'm too lazy to upload all of them onto MEGA, Dropbox, etc. 
 
-# [WhiteCat Skin (1.0)](https://mega.nz/folder/Id8FHaxY#wm4NCpJ5SEPjiY5MGH-0Iw/file/gENgzKKL)
+# [WhiteCat v1.0(various versions)](https://mega.nz/folder/Id8FHaxY#wm4NCpJ5SEPjiY5MGH-0Iw/file/gENgzKKL)
 ![](https://skins.osuck.net/uploads/posts/2019-11/1573897221_3.jpg)
 
 # [Rafis Generic DT skin](https://www.dropbox.com/s/mj8snq3xz4rx15y/Rafis%20Generic%20DT%20skin.osk?dl=0)
