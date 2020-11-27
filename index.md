@@ -1,4 +1,3 @@
-![Alt Text](https://www.speedrun.com/themes/osu/cover-256.png)
 # Main osu! skins
 most of skins i use. definitely all of the main skins
 
