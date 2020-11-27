@@ -1,4 +1,4 @@
 # osu-skins
-## osu! skins backup
-### all the important skins i use
-#### skins in hamasak1.md
+__osu! skins backup__
+__all the important skins i use__
+*skins in hamasak1.md*
