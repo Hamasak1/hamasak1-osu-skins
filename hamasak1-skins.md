@@ -1,4 +1,5 @@
 # Main osu! skins
+most of skins i use. definitely all of the main skins
 
 # Some of the skins may not be listed. 
 i could just be lazy too, but whatever
