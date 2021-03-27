@@ -1,11 +1,9 @@
 # Main osu! skins
-most of skins i use. definitely all of the main skins
+Most of skins I use. Definitely all of the main skins
 
 # Some of the skins may not be listed. 
-i could just be lazy too, but whatever
+If there are any missing skins please message me. 
 
-# Some of the skins may use pre-existing links.
-because i'm too lazy to upload all of them onto MEGA, Dropbox, etc. 
 
 # [WhiteCat v1.0 (various versions)](https://mega.nz/folder/Id8FHaxY#wm4NCpJ5SEPjiY5MGH-0Iw/file/gENgzKKL)
 ![](https://skins.osuck.net/uploads/posts/2019-11/1573897221_3.jpg)
